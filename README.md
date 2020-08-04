@@ -5,5 +5,5 @@
 
 # 具体用法
 
-- 【[https://kunnan.blog.csdn.net/article/details/107788359](https://kunnan.blog.csdn.net/article/details/107788359)】
+- 【[【iOS 广告弹窗】（支持设置显示动画及调整广告比例）采用Masonry进行界面布局](https://kunnan.blog.csdn.net/article/details/107788359)】
 
